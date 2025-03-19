@@ -1,0 +1,16 @@
+.Right_kont {
+  display: flex;
+  flex-direction: column;
+  max-width: 368px;
+  width: 100%;
+  height: 512px;
+  border-radius: 32px;
+  /* align-items: center;  */
+  padding: 38px 40px 46px;
+  justify-content: space-between;
+}
+.listebii {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

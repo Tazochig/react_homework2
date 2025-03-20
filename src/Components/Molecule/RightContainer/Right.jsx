@@ -3,7 +3,6 @@ import Button from "../../Atoms/Button/Button";
 import Summary from "../../Atoms/Summary/Summary";
 import List from "../List/List";
 import React from "react";
-import iconBrain from "../../../assets/Images/iconoir_brain.svg";
 import Chat from "../../../assets/Images/iconoir_chat-remove.svg";
 import Eye from "../../../assets/Images/iconoir_eye-empty.svg";
 import Flash from "../../../assets/Images/Vector.svg";

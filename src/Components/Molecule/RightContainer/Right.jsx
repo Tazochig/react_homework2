@@ -6,6 +6,7 @@ import Brain from "../../../assets/images/iconoir_brain.svg";
 import Chat from "../../../assets/Images/iconoir_chat-remove.svg";
 import Eye from "../../../assets/Images/iconoir_eye-empty.svg";
 import Flash from "../../../assets/Images/Vector.svg";
+import React from "react";
 
 function Right() {
   return (

@@ -1,4 +1,5 @@
 import "./List.css";
+import React from "react";
 
 function List({ pic, header, digit, color }) {
   return (

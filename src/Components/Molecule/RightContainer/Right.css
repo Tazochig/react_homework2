@@ -14,3 +14,9 @@
   flex-direction: column;
   gap: 16px;
 }
+@media (max-width: 600px) {
+  .Right_kont {
+    padding: 24px 30px 30px 30px;
+    gap: 20px;
+  }
+}

@@ -1,13 +1,13 @@
 import "./List.css";
 import React from "react";
 
-function List({ pic, header, digit, color }) {
+function List({ pic, header, digit, teksti, Peri }) {
   return (
     <>
-      <div className="List_full" > 
+      <div className="List_full" style={{background: Peri}}  > 
         <div className="List_left">
           <img src={pic} alt="" />
-          <span className="list_heading">{header}</span>
+          <span className="list_heading" style={{color: teksti}} >{header}</span>
         </div>
         <div className="List_right">
           <h1 className="list_bold">{digit}</h1>
